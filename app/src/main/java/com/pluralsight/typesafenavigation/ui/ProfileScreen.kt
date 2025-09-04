@@ -93,8 +93,7 @@ fun ProfileScreen(
                             Spacer(modifier = Modifier.height(8.dp))
                             
                             Text(
-                                text = "This profile screen demonstrates string-based navigation arguments. " +
-                                        "The userId parameter is passed as a string through the navigation route.",
+                                text = "Enjoys weekend hikes, trying out new coffee spots, and working on side projects in mobile apps",
                                 style = MaterialTheme.typography.bodyMedium
                             )
                         }
